@@ -115,7 +115,7 @@ body {
 #app {
   width: 1920px;
   height: 1080px;
-  background-color: #00FF00;
+  /* background-color: #00FF00; */
   font-family: splatfont2;
   font-size: 50px;
   position: relative;
