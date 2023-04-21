@@ -1,0 +1,2080 @@
+{
+    "solos": [
+        {
+            "team": "ヘビのアゴに挟まれ隊",
+            "futatsuna": "実はテッキュウ愛",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "カレーパン",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "ヘビのアゴで生活する事が夢です"
+        },
+        {
+            "team": "豆腐好き",
+            "futatsuna": "あなただけの抱き枕",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "おとーふ",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "初参加ですが頑張ります！"
+        },
+        {
+            "team": "しぇるめでぃあ",
+            "futatsuna": "トキメキ☆エイ！",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Shel",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "エイ！エイ！むん！"
+        },
+        {
+            "team": "akatki",
+            "futatsuna": "進撃のサメライド",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "AMuLu",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "ソロでの参加にはなりますが最高2ミス野良カンストしてる実力をだしていきたいです！"
+        },
+        {
+            "team": "TeSA GAMING",
+            "futatsuna": "実は優勝",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "ぼっちのカシパブ　w",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "ソロプレイの野良で鍛えたこの筋肉で、シャケ達のほっぺをスリスリします！"
+        },
+        {
+            "team": "ムラサキインク",
+            "futatsuna": "大人の新人",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "りょうこ",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "ソロアルバイターですが、上位目指してがんばります！"
+        },
+        {
+            "team": "しようがないじゃなイカ",
+            "futatsuna": "タツの抱き枕",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "む〜やん",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "足引っ張らないよう頑張ろうじゃなイカ"
+        },
+        {
+            "team": "コジャケの晩ごはん",
+            "futatsuna": "とりあえず唐揚げ",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "ハル",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "納品しないとクリアできないじゃんの心持で今日も金イクラを運びます。終わったら帰ってコジャケとからあげ食べるぞ～。"
+        },
+        {
+            "team": "てあむあかいろ",
+            "futatsuna": "やっぱりやられた",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "あかいろ102",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "前回は画面入りに留まりましたが、今回は表彰目指してがんばりたいと思っています！！"
+        },
+        {
+            "team": "おいもボンバー",
+            "futatsuna": "あまーいパフェ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "トッティー",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "当日にオールランダムの狂気再びってないですかね～あったら楽しみです"
+        },
+        {
+            "team": "処理廃人Yura",
+            "futatsuna": "ポンポンデスタワー",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "Yura",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "ピロロロロロロロロロロロロロ"
+        },
+        {
+            "team": "ただのソロバイターver.2",
+            "futatsuna": "トキメキ☆納品レンジャー",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Mr.Toyo",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "前回ほぼ最下位だったただの下手なソロバイターのver.2です！中の人は変わってませんが知識と経験は変わっているので次こそ上位を目指します！！"
+        },
+        {
+            "team": "ただ1人働き続ける社畜",
+            "futatsuna": "実は新人",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "samu",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "納品苦手ですが頑張りたいです"
+        },
+        {
+            "team": "運動不足のタコ",
+            "futatsuna": "ダイエット中のアルバイター",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "calinchan",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "初参戦がんばります！"
+        },
+        {
+            "team": "まんまる稚魚",
+            "futatsuna": "コロコロな鮭畜",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "すなぎも",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "初参加のまんぷく杯！全力で楽しみます！"
+        },
+        {
+            "team": "チヲマウサクラ",
+            "futatsuna": "届かなかったサメライド",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "みつりんご",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "地を舞う桜ですが、そろそろ咲きたいです。頑張ります。"
+        },
+        {
+            "team": "なんで私が阪大に？",
+            "futatsuna": "届かなかった優勝",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "ラテ",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "納品命"
+        },
+        {
+            "team": "なべ",
+            "futatsuna": "水没のサメライド",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "ヤタガラス",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "目指せ野良200納品"
+        },
+        {
+            "team": "ひれディマーキュリー",
+            "futatsuna": "バイト戦隊労働組合員",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "ひれディマーキュリー",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "明日は仕事だけと頑張る"
+        },
+        {
+            "team": "独り身",
+            "futatsuna": "実はテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ミナミ",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "頑張ります"
+        },
+        {
+            "team": "希望のモグラと絶望のカタパ",
+            "futatsuna": "揚げたての運動会",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "Mg",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "寿司はサーモン好きです。いくらはそこそこ好きです。頑張ります。"
+        },
+        {
+            "team": "白い城",
+            "futatsuna": "恋のテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ブイ",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "やったりまふ"
+        },
+        {
+            "team": "さよしん",
+            "futatsuna": "まんぷくなお祭り",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "さよぽん",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "5歳児にサーモンランやりすぎと言われながら頑張ります。"
+        },
+        {
+            "team": "きめら",
+            "futatsuna": "やっぱり労働組合員",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "qjhez",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "しばく"
+        },
+        {
+            "team": "たのしいサーモンランNW",
+            "futatsuna": "かけだしのアルバイター",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "Toshi",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "2時間ノーミスを目指します！"
+        },
+        {
+            "team": "しゃけぷりん",
+            "futatsuna": "あまーいシャケラッシュ",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "ミルクラウン",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "初めて大会に参加するので結構頑張りたいと思います"
+        },
+        {
+            "team": "イカ一貫",
+            "futatsuna": "あわてんぼうのアルバイター",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "さとる",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "全力で楽しみます！！！！"
+        },
+        {
+            "team": "納豆ご飯",
+            "futatsuna": "進撃のタマヒロイ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ばちるすなっとー",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "全力で楽しみます！！"
+        },
+        {
+            "team": "うにぐり",
+            "futatsuna": "野良ネズミのアルバイター",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "うにぐり",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "短い時間の中思い切り楽しみたいです！"
+        },
+        {
+            "team": "野良ぼっち",
+            "futatsuna": "シャケシャケのお祭り",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "りぷとーーん",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "サモランエンジョイ勢として頑張ります！"
+        },
+        {
+            "team": "ひとりでやるたのしさ",
+            "futatsuna": "恋の抱き枕",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "effort",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "努力で勝てたらいいな。"
+        },
+        {
+            "team": "バレルがばれる。",
+            "futatsuna": "きみといっしょ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "Amiyai:C",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "２回目の参加となります。上位取れたらいいなぐらいの気持ちで楽しみながら頑張ります。よろしくお願いします。"
+        },
+        {
+            "team": "野良猫軍団サクラ組",
+            "futatsuna": "クマサン商会労働組合員",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "しっぽ",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "コツコツ頑張ります！"
+        },
+        {
+            "team": "テッキュウ被害者の会一般会員",
+            "futatsuna": "トキメキ☆シャケラッシュ",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "めいてる",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "最近は忙しくてあまり遊べていませんが全力で楽しみます!"
+        },
+        {
+            "team": "このいくらいくら？",
+            "futatsuna": "残業好きな新人",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "シャケちく",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "初参加です！頑張ります！"
+        },
+        {
+            "team": "真ん中通るインクレール",
+            "futatsuna": "無意識に鮭畜",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "オドバシカメラ",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "いっぱい狩る👊"
+        },
+        {
+            "team": "超スーパーチーム",
+            "futatsuna": "届かなかったイクラ投げ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Franky66ch",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "シュートするッス！"
+        },
+        {
+            "team": "野良ねこズ",
+            "futatsuna": "タツの唐揚げ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ねこにスマホとられた",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "野良猫と戯れて来ます。よろしくお願いします。"
+        },
+        {
+            "team": "miya",
+            "futatsuna": "てっきゅーランデヴー",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "miya -Y-",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "リア友にバレませんように"
+        },
+        {
+            "team": "ダイバー可愛いbot",
+            "futatsuna": "おいしいイカ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "   てんてててん",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "ダイバー可愛いよダイバー"
+        },
+        {
+            "team": "保育園卒",
+            "futatsuna": "とりあえず運ぶのじゃ",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "スプラようアカウント",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "カンストいってないです。ガチ勢こわいです"
+        },
+        {
+            "team": "maki games",
+            "futatsuna": "届かなかったイクラ投げ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Maki",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "イクラキャノン常備したい"
+        },
+        {
+            "team": "流行するデザート",
+            "futatsuna": "あまーいパフェ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "プリン・アラ・ドーモ",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "初参加でどこまで通用するかはわかりませんが、楽しく金イクラを集めていこうと思います。"
+        },
+        {
+            "team": "ルーキーズ",
+            "futatsuna": "クールなたつじん",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ごうえんじ",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "今回こそはがんばるます"
+        },
+        {
+            "team": "MemeFish",
+            "futatsuna": "ポンポンサメライド",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "さかなまる",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "大会初参加！楽しみます！"
+        },
+        {
+            "team": "Auいくら納品バスター",
+            "futatsuna": "クールな鮭畜",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Au_よたも",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初参加なのでまったり　ソロで上位35%、全体で上位50%には入りたいですかね"
+        },
+        {
+            "team": "わさびのり",
+            "futatsuna": "トキメキ☆サメライド",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "わさびのり",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "前回あまりいい結果を残せなかったので今回また頑張っていきたいです。"
+        },
+        {
+            "team": "三ヶ野エンタ",
+            "futatsuna": "目指すはプロ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "エンタ",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "目標は上位20位以内！入れなかったら激辛ペヤング食べます！！"
+        },
+        {
+            "team": "熟成した刺身",
+            "futatsuna": "実は唐揚げ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ヨッシーDX",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "2回目のまんぷく杯。ちょっとはうまくなってる！・・・はず。"
+        },
+        {
+            "team": "金銀鱗はぎとり隊",
+            "futatsuna": "あわてんぼうの納品レンジャー",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "とうゆ",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "初参加ですが頑張ります！"
+        },
+        {
+            "team": "南アルプス天然水",
+            "futatsuna": "おいしいおいしい",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "びわ",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "お水飲みながらがんばります。"
+        },
+        {
+            "team": "ひがしむら",
+            "futatsuna": "ポンポンエイ！",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "にしむら",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "全にしむらの応援に答えられるよう頑張ります"
+        },
+        {
+            "team": "東京焼網",
+            "futatsuna": "グリルとランデヴー",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "daays",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "絶対愛しのグリルWAVEを引きます"
+        },
+        {
+            "team": "タワカタタワカタで交互に並べ！",
+            "futatsuna": "無意識にLOVE",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "るりらり",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "514納品は難しそうなんで451納品目指して頑張ります！"
+        },
+        {
+            "team": "金イクラを零すなッ！掴み取れ！",
+            "futatsuna": "届かなかった金イクラ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "まつたか",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "金イクラ回収早くなったね！"
+        },
+        {
+            "team": "鮭と毎時2体 仲良くなる点P",
+            "futatsuna": "心の中の先輩",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "およぐ テンP",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "ベストを尽くします"
+        },
+        {
+            "team": "バクダンは利敵",
+            "futatsuna": "かけだしの新人",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "のちのらす",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "目指せ全処理"
+        },
+        {
+            "team": "屁理屈こねこね製作所",
+            "futatsuna": "衣の付いたサメライド",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "たる",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初挑戦ですががんばります！鮭全員食べます"
+        },
+        {
+            "team": "弱くてニューゲーム",
+            "futatsuna": "生まれたてのクマサン",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "くまもっち",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初挑戦！のんびりと頑張ります。"
+        },
+        {
+            "team": "どんぶらこっこ",
+            "futatsuna": "無意識に鮭畜",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "カモン★ナイス！",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "あなたと越えたいwave3★まずはリザルト残せるように頑張りたい！"
+        },
+        {
+            "team": "Nico株式会社",
+            "futatsuna": "トキメキ☆シャケラッシュ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "Nico",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "推しのバクダンさんは私のモノ♡"
+        },
+        {
+            "team": "おたもちもち",
+            "futatsuna": "ポンポンエイ！",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "otamochi",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "ウロコ運だけで勝利を狙います！"
+        },
+        {
+            "team": "ソロの極",
+            "futatsuna": "クールなデスタワー",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "ど        ま",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "がんばるます"
+        },
+        {
+            "team": "へいへいへーい",
+            "futatsuna": "夜のサメライド",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "へいへい*NW",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "前回の記録は超えたい！！（前回25位）"
+        },
+        {
+            "team": "Yのいちぞく",
+            "futatsuna": "てっきゅーLOVE",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "のんのんY",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初参加！死ぬ気で納品します！！！"
+        },
+        {
+            "team": "白雲商会",
+            "futatsuna": "うどん好きな鮭畜",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "しらくもぷるるん",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "そんなことよりおうどん食べたい。"
+        },
+        {
+            "team": "そろそろソロだと気もそぞろ",
+            "futatsuna": "クマサン商会労働組合員",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Unajifu",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "この季節になりました頑張ります🔥"
+        },
+        {
+            "team": "れいおん",
+            "futatsuna": "アゲアゲなエイ！",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "れいおん",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "がんばります"
+        },
+        {
+            "team": "イクラDAY'ｓ",
+            "futatsuna": "水没のタマヒロイ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Raco",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "運びます"
+        },
+        {
+            "team": "納品し隊",
+            "futatsuna": "バイト戦隊納品レンジャー",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "しゃヶちく",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "ぼっちで頑張ります"
+        },
+        {
+            "team": "いるよ丸",
+            "futatsuna": "実はタマヒロイ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "くま いるよ",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "40代、ソロでがんばります"
+        },
+        {
+            "team": "孤独のかめ",
+            "futatsuna": "アゲアゲなイカ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "くさかめ",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "初参加なので楽しみです"
+        },
+        {
+            "team": "牛乳好きに悪い人はいない",
+            "futatsuna": "でんせつのタマヒロイ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": ".らって",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "2時間で2ℓ飲むぞー"
+        },
+        {
+            "team": "ブランクとかないようなもんだよ",
+            "futatsuna": "無意識に運ぶのじゃ",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "いにれ〜",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "1ヶ月サモランやってなかった程度なら体が覚えてる…と思うからどうにか上位に行きます。"
+        },
+        {
+            "team": "ケサランパサラン",
+            "futatsuna": "キラッとエイ！",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "プラ",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "頑張ります。"
+        },
+        {
+            "team": "親子丼",
+            "futatsuna": "あらぶるパフェ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "おやこどん",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "頑張ります"
+        },
+        {
+            "team": "個人情報開示祭り",
+            "futatsuna": "絶妙な労働組合員",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ばれないおかもとつべ",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "リアルバイトの間を縫ってシャケをシバキ倒します！"
+        },
+        {
+            "team": "ドスコイを許すな",
+            "futatsuna": "昔からのテッキュウ愛",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "non",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "ソロで頑張って行きたいと思います！テッキュウもっと湧いて欲しいです！"
+        },
+        {
+            "team": "ナベブティスト",
+            "futatsuna": "クールな処理班",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "キューブ",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "ナベブタと一緒に乱獲頑張ります！"
+        },
+        {
+            "team": "徳積み戦隊ツイてるンジャー",
+            "futatsuna": "お腹がテッキュウ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "けんしろ",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "大会に向けてトイレを綺麗にしておきました。"
+        },
+        {
+            "team": "ぼっち鮭",
+            "futatsuna": "揚げたてのシャケラッシュ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Sianoid",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "鮭茶漬け食べたい"
+        },
+        {
+            "team": "やんのかステップ",
+            "futatsuna": "あなただけのデスタワー",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "やんのかステップ",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初めてのまんぷく杯！楽しみます！"
+        },
+        {
+            "team": "兼定でチタタプ",
+            "futatsuna": "私とクマサン",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "サム",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "初参加です。レート低いですが楽しめたらいいなと思います。よろしくお願いします。"
+        },
+        {
+            "team": "よっぴー",
+            "futatsuna": "クマサン商会バイトリーダー",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "よっぴー（ラクト）",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初参加です、頑張ります。"
+        },
+        {
+            "team": "ぱぴぷぺぽっぷーこーん",
+            "futatsuna": "きみとハーレム",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ちょうチルなむぅてん",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "初参加です！頑張ります！！"
+        },
+        {
+            "team": "ソロスバル",
+            "futatsuna": "揚げたてのタツ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "このすばる",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "3から鮭走にハマって大会とか初めてなので上位目指しつつ楽しみたいです。"
+        },
+        {
+            "team": "姉と弟",
+            "futatsuna": "生まれたての新人",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "あんこちゃん",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "ゆっくり実況さんを見ればできると勇気を与えたいなと思ってます"
+        },
+        {
+            "team": "孤独のイカバイターBLACK",
+            "futatsuna": "お腹がテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "カゲ",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "前回よりも一歩先を目指して！"
+        },
+        {
+            "team": "加速するBPM",
+            "futatsuna": "ダイエット中のテッキュウ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "ΔMAX",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "生きたい"
+        },
+        {
+            "team": "おくも",
+            "futatsuna": "カンスト労働組合員",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "くも",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "撃滅と納品を胸に鮭を捌いて参ります。"
+        },
+        {
+            "team": "きんにくつん",
+            "futatsuna": "アゲアゲなあげ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ベッドにそっときみ",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "みんなのもとにきんにくつうはいるよ♡"
+        },
+        {
+            "team": "フシフムナ",
+            "futatsuna": "オカシラシャケのタマヒロイ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "フシフムナ",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "オカシラシャケ専属タマヒロイ、たくさん金イクラかき集めます！"
+        },
+        {
+            "team": "ゆどうふ",
+            "futatsuna": "揚げたての唐揚げ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ゆどうふ",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "初めての参加ですが、精一杯楽しみます！！"
+        },
+        {
+            "team": "tirusafe",
+            "futatsuna": "届かなかったヘルプ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ぐっちゃんいか",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "物は試しで参加してみました。よろしくお願いします"
+        },
+        {
+            "team": "SNB",
+            "futatsuna": "タツのたつじん",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Sinbe ようつべ",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "おまたせ"
+        },
+        {
+            "team": "花ぼ茶ぷりん心こ愛太郎ちゃん",
+            "futatsuna": "届かなかった金イクラ",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "はなちゃ",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初めての参加です！たくさん納品します！！"
+        },
+        {
+            "team": "万年ソロアルバイター",
+            "futatsuna": "心の中のタマヒロイ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "◇ すずらん ◇",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初参加です！とりあえず楽しみます！"
+        },
+        {
+            "team": "もそサン商会",
+            "futatsuna": "クマサン商会新人",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "もそ【ようつべ】",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "初参加なので全力で楽しみます！！！"
+        },
+        {
+            "team": "ハシラ愛好家",
+            "futatsuna": "進撃の鮭畜",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "まっつんつん",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "目指せ全処理全納品"
+        },
+        {
+            "team": "そんなことよりサーモンラン",
+            "futatsuna": "てっきゅーハーレム",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "りんごあめ",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "夜あり230を出してやるぞと、そう意気込んでおります。"
+        },
+        {
+            "team": "ナベブタだ！つぶせーーーーー！",
+            "futatsuna": "サクサクのタツ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "とんかつたまごとじ",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "初参加です！！！！！金鱗の可能性に全てを託してがんばるぞ！！！！！！"
+        },
+        {
+            "team": "友達欲しいなあ",
+            "futatsuna": "おいしいエイ！",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "おせんべい",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "友達募集中"
+        },
+        {
+            "team": "The・自営業",
+            "futatsuna": "納品担当の先輩",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "キサラヅ",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "目指せソロ優勝！！"
+        },
+        {
+            "team": "あの大臣によるサーモンラン",
+            "futatsuna": "ワールドツアー中のエイ！",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "366/サモラTV",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "本日も撃滅と納品の好循環を推進して参ります"
+        },
+        {
+            "team": "限界アルバイター",
+            "futatsuna": "届かなかった金イクラ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "らい",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "前回よりも良い成績を求めて！"
+        },
+        {
+            "team": "金イクラたくさん拾い隊",
+            "futatsuna": "でんせつのタマヒロイ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ちーずさーもん",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "半年ぶりに参加します！楽しみつつ頑張ります！"
+        },
+        {
+            "team": "ルトペン",
+            "futatsuna": "かけだしのイカ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "√ペンギン",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "初心者です"
+        },
+        {
+            "team": "野良ちゃん大好きだよ頑張ろうな",
+            "futatsuna": "いちずな抱き枕",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "はむ",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "わはは！"
+        },
+        {
+            "team": "納品損保蛮殻",
+            "futatsuna": "グリルとランデヴー",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "けんもほろろ",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "おなかいっぱいサーモンを食べて頑張ります"
+        },
+        {
+            "team": "シャケをおにぎる隊",
+            "futatsuna": "納品担当のクマサン",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "ラクルトテディ",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "初参加です！たくさん倒して楽しく納品頑張ります！"
+        },
+        {
+            "team": "がんばる委員会",
+            "futatsuna": "いちずなアルバイター",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "SUBi",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "この大会で一位になったら俺、ドンブラコを海に沈めるんだ……"
+        },
+        {
+            "team": "匿名M",
+            "futatsuna": "となりのテッキュウ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "わっしょい_えむまる",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "匿名Mです"
+        },
+        {
+            "team": "るる",
+            "futatsuna": "でんせつのマスター",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "るる*〆",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "頑張ります"
+        },
+        {
+            "team": "あきこ",
+            "futatsuna": "てっきゅーテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "pikiら",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "リアルバイトあって忙しいけどがんばる"
+        },
+        {
+            "team": "おおシマネはちろうのラン",
+            "futatsuna": "やっぱりやられた",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "おおシマネはちろう",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "独りはつらいよ　それでもがんばる"
+        },
+        {
+            "team": "記念受験TV",
+            "futatsuna": "スペシャルナイス",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Hope1st",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "記念受験です頑張りますよろしくお願いします"
+        },
+        {
+            "team": "クランましゅまろの長",
+            "futatsuna": "実はプロ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "ましゅTikTok™",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "本気で遊びに行きます"
+        },
+        {
+            "team": "kaoのソロ",
+            "futatsuna": "いちずなテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "kao",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "スプラ3から始めたがち初心者ですが、すこーしだけ動き方が分かってきました。ねことスプラをこよなく愛しています笑"
+        },
+        {
+            "team": "今際の国",
+            "futatsuna": "キラッと運ぶのじゃ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "いまわのくにのアリス",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初参加でドキドキですが、ソロでも楽しんで頑張りたいと思います！！"
+        },
+        {
+            "team": "The HUMAN",
+            "futatsuna": "ダイエット中のまんぷくちゃん",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ひと",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "初参加ですが上位入れたらと思います！！頑張ります！！"
+        },
+        {
+            "team": "目標は遅刻回避",
+            "futatsuna": "とりあえずヘルプ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "らいらっく",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "初参加！！！楽しくやればOKッスよね！！？！？イェイ！！！！！"
+        },
+        {
+            "team": "流浪の野良バイター",
+            "futatsuna": "届かなかったイクラ投げ",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "ROSSO",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "頑張って納品しまーす"
+        },
+        {
+            "team": "まんじょうチーム",
+            "futatsuna": "あわてんぼうのタマヒロイ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "まんじょう",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "チーム一丸となって頑張ります"
+        },
+        {
+            "team": "レジギガスは友達ではありません",
+            "futatsuna": "お腹がテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "^ら^",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "よーしお兄さん頑張っちゃうぞー"
+        },
+        {
+            "team": "やさかのかさや ",
+            "futatsuna": "おいしい発売中",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "びあー",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "初めてのまんぷく杯です！いろいろ試しながらやりたいと思います！"
+        },
+        {
+            "team": "ネギ",
+            "futatsuna": "おいしいおいしい",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ハヤティ",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "ネギを沢山食べます"
+        },
+        {
+            "team": "ハジケ隊の音割れ担当",
+            "futatsuna": "野良ネズミの希望の星",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "バネヤマ",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "昼とラッシュしか引けない体だけどそれで優勝するぜ！"
+        },
+        {
+            "team": "がんばります",
+            "futatsuna": "まんぷくなテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ロキシーミグルディア",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "がんばります"
+        },
+        {
+            "team": "まーちゃん大学ごめんね学部委員",
+            "futatsuna": "あまーいエイ！",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "ムラカミ(ﾟдﾟ;)",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初参加、野良ノーミスカンスト勢の意地を見せます！！！"
+        },
+        {
+            "team": "和の心",
+            "futatsuna": "あわてんぼうのタマヒロイ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "わび　さび",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "シャケたちをもてなしてまいります"
+        },
+        {
+            "team": "こなつ28ソロ",
+            "futatsuna": "クールなバイトリーダー",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "こなつ28",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "初めて参加させていただきます！がんばります！"
+        },
+        {
+            "team": "クマさん商会に囚われし者",
+            "futatsuna": "あらぶるアルバイター",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "はる",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "楽しむぞ〜"
+        },
+        {
+            "team": "不眠不休のアルバイター",
+            "futatsuna": "残業好きなタマヒロイ",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "ぽとぞる",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "Splatoon3から始めた初心者ですが頑張ります！"
+        },
+        {
+            "team": "ダイナモキャット",
+            "futatsuna": "てっきゅー全討伐",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "ぽん^._.^",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "初めてまんぷく杯にでますが、いい記録を出せるように頑張ります！"
+        },
+        {
+            "team": "salmon星",
+            "futatsuna": "シャケシャケの希望の星",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "しほ",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "初参加ですが、頑張ります！"
+        },
+        {
+            "team": "孤独な新米しらす",
+            "futatsuna": "クマサン商会アルバイター",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "しらす",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "チャレンジ精神で頑張る"
+        },
+        {
+            "team": "鮭は百薬の長",
+            "futatsuna": "バイト戦隊新人",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "きょう",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "初参加楽しむぞ〜。"
+        },
+        {
+            "team": "金イクラ納品会",
+            "futatsuna": "生まれたての金イクラ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "KOUSEI",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "初参戦です。程々に頑張ります。"
+        },
+        {
+            "team": "難破船ドンブラコを許すな",
+            "futatsuna": "コロコロなクマサン",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ぐる3333",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "最近鮭バイトをする夢を頻繁に見て、朝には疲れて目が覚めます。これだけ毎日鮭畜を頑張ってる成果をこの大会で出せたらいいなと思ってます。"
+        },
+        {
+            "team": "サークルひとり",
+            "futatsuna": "もうすぐ締め切りのヘルプ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "フミオ",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "締め切りから逃げ切ります。"
+        },
+        {
+            "team": "おどりば",
+            "futatsuna": "あわてんぼうのバイトリーダー",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "おどりばさんしろう",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "初めての参加頑張ります！"
+        },
+        {
+            "team": "オオオ～～～！",
+            "futatsuna": "やっぱり記念日",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ヅオ～",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "ganbari masu!"
+        },
+        {
+            "team": "熱海の正社員ソロ",
+            "futatsuna": "夜のバランサー",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "デコTTラシ",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "今こそクマサンへの忠誠心を見せるときです"
+        },
+        {
+            "team": "限界アルバイター野乃せろり",
+            "futatsuna": "やっぱり新人",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "せろり",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "日々、でんせつの床を舐める屈辱を味わっている元気なアルバイターです！"
+        },
+        {
+            "team": "特鮮野郎Sチーム",
+            "futatsuna": "バイト戦隊発売中",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "つかさ",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "初参加なのでわからないことだらけですが頑張ります!"
+        },
+        {
+            "team": "人生送りバント",
+            "futatsuna": "やっぱりヘルプ",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "よっすん",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "初参加ですが精一杯納品したいです！3から始めてサーモラン中毒になったアラフォー。"
+        },
+        {
+            "team": "めとろ",
+            "futatsuna": "野良ネズミの希望の星",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "めとろ",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "がんばる！"
+        },
+        {
+            "team": "ドライアイしぱみ",
+            "futatsuna": "いちずなアルバイター",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "ドライアイしぱみ",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "初めて大会に参加します。精一杯楽しみます。"
+        },
+        {
+            "team": "いくらはこぶ",
+            "futatsuna": "進撃のサメライド",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Soarsora",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "ganbaru"
+        },
+        {
+            "team": "ソロバイター蒼色さん",
+            "futatsuna": "届かなかったLOVE",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "あおいろ",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "3からの初心者ですがバイトの楽しさに目覚めました！(目キラキラ)がんばるます！！"
+        },
+        {
+            "team": "通常運転参ります",
+            "futatsuna": "クマサン商会労働組合員",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "KURAGE。",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "最近歳のせいか画面チカチカするし、判断能力が衰えてテキパキ動けず大変ですが愛しのクマさんのため頑張ります。"
+        },
+        {
+            "team": "明日から頑張るシャケバイター",
+            "futatsuna": "かけだしのサメライド",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "シキオリ ラティス",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "程々に頑張る"
+        },
+        {
+            "team": "化学式H3BO3のホウ酸",
+            "futatsuna": "スペシャル新人",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "ほう",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "ソロ部門とペア部門の人とマッチングするかもしれませんね。共闘よろしくお願いします。あと締め切りギリギリに応募してスマンメンミ。"
+        },
+        {
+            "team": "ブリブリのぶり",
+            "futatsuna": "サクサクの唐揚げ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "しょっかく",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "初参加です、金イクラたべたい！！"
+        },
+        {
+            "team": "ハシラ大好きてぃーゔぃー",
+            "futatsuna": "とりあえずあげ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "やーくん",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "非常にたくさん納品します！"
+        },
+        {
+            "team": "SR₃くうちゃん",
+            "futatsuna": "心の中のパフェ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "SR₃くうちゃん",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "全力で楽しみます！"
+        },
+        {
+            "team": "TN2",
+            "futatsuna": "恋の唐揚げ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "ごとう ひとり",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "がんばります"
+        },
+        {
+            "team": "きなこかきもち",
+            "futatsuna": "ふとったアルバイター",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "まゆげ",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "ぼっちでも頑張るぞ！"
+        },
+        {
+            "team": "AK_めぐが使えないめむさん",
+            "futatsuna": "やっぱりやられた",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "めめ",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "AKを返してください。赤イクラならいくらでもある"
+        },
+        {
+            "team": "がんばれ！ぼっチルル♪",
+            "futatsuna": "トキメキ☆サメライド",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "ちるる♪",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "納品いっぱいします！"
+        },
+        {
+            "team": "かぼす",
+            "futatsuna": "水没のサメライド",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "Yu",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "初参加。ぼっちでも頑張ります！"
+        },
+        {
+            "team": "ペンシル",
+            "futatsuna": "期待のテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "INUYAMA",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "初めての参加になりますが、全力で楽しんでいきます！どうぞ、よろしくお願いします！"
+        },
+        {
+            "team": "キタムラ",
+            "futatsuna": "あらぶるタツ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "た",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "頑張ります！"
+        },
+        {
+            "team": "コジャケをストゼロに沈めたい",
+            "futatsuna": "絶妙な唐揚げ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "なにぬねの",
+                    "class": "wiggle5"
+                }
+            ],
+            "msg": "気合！気合！気合！"
+        },
+        {
+            "team": "前職青眼の究極竜",
+            "futatsuna": "スペシャルおいしい",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "サラ_ikachan",
+                    "class": "wiggle2"
+                }
+            ],
+            "msg": "推しソシャゲがそれなり〜に炎上してて泣いてます。大会頑張ります。"
+        },
+        {
+            "team": "ただのもぶ",
+            "futatsuna": "トキメキ☆LOVE",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "もぶさん",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "初めての参加なので頑張ります！"
+        },
+        {
+            "team": "超絶気まぐれサーモンラン",
+            "futatsuna": "無意識にやられた",
+            "push": "納品派",
+            "members": [
+                {
+                    "name": "れびん",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "カンスト未経験ですが頑張ります！"
+        },
+        {
+            "team": "ウキワが３つ並んだよ",
+            "futatsuna": "サクサクのテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "さくらもち",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "夜な夜な画面に向かって全力で謝っています。初参加です！楽しみます！"
+        },
+        {
+            "team": "エレクトリカル樹木",
+            "futatsuna": "サクサクの金イクラ",
+            "push": "処理派",
+            "members": [
+                {
+                    "name": "ヨモギのき",
+                    "class": "wiggle6"
+                }
+            ],
+            "msg": "実はタツって200色あんねん"
+        },
+        {
+            "team": "テッキュウ湧いて草",
+            "futatsuna": "あらぶるテッキュウ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "きさらぎ372 YT",
+                    "class": "wiggle1"
+                }
+            ],
+            "msg": "テッキュウは、海の中で大人しくしてくれ...。"
+        },
+        {
+            "team": "ありがとうと伝えたくて",
+            "futatsuna": "生まれたてのエイ！",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "あなたをみつめるけど",
+                    "class": "wiggle3"
+                }
+            ],
+            "msg": "初参加です！よろしくお願いします！"
+        },
+        {
+            "team": "中堅鮭畜",
+            "futatsuna": "揚げたてのタツ",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "みん",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "初参加でドキドキですが頑張ります！"
+        },
+        {
+            "team": "チョコレートパフェ",
+            "futatsuna": "グリルとテッキュウ愛",
+            "push": "バランス派",
+            "members": [
+                {
+                    "name": "トマトちょこれーとv",
+                    "class": "wiggle4"
+                }
+            ],
+            "msg": "がんばります"
+        }
+    ]
+}
