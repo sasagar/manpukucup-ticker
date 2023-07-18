@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import TickerContainer from './components/TickerContainer.vue'
+import TickerContainer from './components/12th/TickerContainer.vue'
 // import Test from './components/Test.vue'
 
 export default {

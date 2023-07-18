@@ -1,8 +1,8 @@
 <template>
     <div class="ticker-container">
         <img src="@/assets/images/rogo_inc_color.png" alt="まんぷく杯ロゴ" id="logo">
-        <img src="@/assets/images/sakura-front.png" alt="桜" id="sakura1">
-        <img src="@/assets/images/sakura-front-front.png" alt="桜" id="sakura2">
+        <img src="@/assets/images/11th/sakura-front.png" alt="桜" id="sakura1">
+        <img src="@/assets/images/11th/sakura-front-front.png" alt="桜" id="sakura2">
         <transition name="team-container" class="team-container" appear>
             <TeamContainer v-bind:team="now" v-if="isShow" />
         </transition>
@@ -17,10 +17,10 @@ import {
 } from "vue";
 
 import TeamContainer from "./TeamContainer";
-import solo from "../assets/json/solo.json";
-import pair from "../assets/json/pair.json";
-import team from "../assets/json/team.json";
-import extra from "../assets/json/extra.json";
+import solo from "../../assets/json/solo.json";
+import pair from "../../assets/json/pair.json";
+import team from "../../assets/json/team.json";
+import extra from "../../assets/json/extra.json";
 
 const isShow = ref(true);
 const solos = solo.solos;
@@ -107,7 +107,7 @@ onMounted(() => {
 .ticker-container {
     width: 1920px;
     height: 200px;
-    background-image: url(~@/assets/images/bg.jpg);
+    background-image: url(~@/assets/images/11th/bg.jpg);
     background-position: center;
     position: absolute;
     bottom: 0;
