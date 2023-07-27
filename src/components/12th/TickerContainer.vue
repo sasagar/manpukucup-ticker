@@ -17,10 +17,10 @@ import {
 
 import TeamContainer from "./TeamContainer";
 import CharactorContainer from "./CharactorContainer";
-import solo from "../../assets/json/solo.json";
-import pair from "../../assets/json/pair.json";
-import team from "../../assets/json/team.json";
-import extra from "../../assets/json/extra.json";
+import solo from "../../assets/json/12th/solo.json";
+import pair from "../../assets/json/12th/pair.json";
+import team from "../../assets/json/12th/team.json";
+import extra from "../../assets/json/12th/extra.json";
 
 const isShow = ref(true);
 const solos = solo.solos;
