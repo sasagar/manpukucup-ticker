@@ -10,7 +10,7 @@
           </div>
           <div class="name-container">
             <div class="team-name">
-              {{ props.team.team }}
+              {{ props.team.name }}
             </div>
             <ul class="team-members">
               <li v-for="member in props.team.members" :key="member.name" >{{ member.name }}</li>

@@ -1,22 +1,25 @@
 <template>
     <transition name="charactor" appear>
-        <img :src="require(`@/assets/images/12th/${charactor()}`)" alt="キャラクター" class="charactor" v-if="props.show" />
+        <img :src="charactor()" alt="キャラクター" class="charactor" v-if="props.show" />
     </transition>
 </template>
 
 <script setup>
 import {
     defineProps,
-    // computed
+    // computed,
+    ref
 } from "vue";
 
 const props = defineProps(['show']);
 
-function charactor () {
-    const rand = Math.floor(Math.random() * 8);
-    console.log(rand);
+const rand = ref(0);
+
+const charactor = () => {
+    rand.value = Math.floor(Math.random() * 8);
+    console.log(rand.value);
     let src;
-    switch (rand) {
+    switch (rand.value) {
         case 1:
             src = '2BASA.png';
             break;
@@ -42,8 +45,11 @@ function charactor () {
             src = 'manpuku.png';
             break;
     }
-    return src;
-}
+
+    const url = '/images/12th/' + src;
+    return url;
+    // return new URL(`${url}`, import.meta.url).href;
+};
 </script>
 
 <style lang="scss" scoped>

@@ -1,6 +1,6 @@
 <template>
     <div class="ticker-container">
-        <img src="@/assets/images/rogo_inc_color.png" alt="まんぷく杯ロゴ" id="logo">
+        <img src="/images/rogo_inc_color.png" alt="まんぷく杯ロゴ" id="logo">
         <div class="ticker-right">
             <TeamContainer v-bind:team="now" :show="isShow"/>
             <CharactorContainer :show="isShow" />
@@ -15,8 +15,8 @@ import {
     computed
 } from "vue";
 
-import TeamContainer from "./TeamContainer";
-import CharactorContainer from "./CharactorContainer";
+import TeamContainer from "./TeamContainer.vue";
+import CharactorContainer from "./CharactorContainer.vue";
 import solo from "../../assets/json/12th/solo.json";
 import pair from "../../assets/json/12th/pair.json";
 import team from "../../assets/json/12th/team.json";
@@ -107,7 +107,7 @@ onMounted(() => {
 .ticker-container {
     width: 1920px;
     height: 200px;
-    background-image: url(~@/assets/images/12th/ticker-bg.png);
+    background-image: url(/images/12th/ticker-bg.png);
     background-position: center;
     position: absolute;
     bottom: 0;
