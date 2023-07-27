@@ -3,7 +3,7 @@
     <div class="team-container" v-if="props.show">
       <div class="inner-container">
         <div class="upper">
-          <div class="team-futatsuna">
+          <div class="team-futatsuna" :class="props.team.push">
             <span>
               {{ props.team.futatsuna }}
             </span>
@@ -78,6 +78,20 @@ const props = defineProps(['team','show']);
   background-color: #a5cbff;
   padding: 10px 5px;
 }
+
+.team-futatsuna.umi span {
+  background-color: #9dc9ff;
+}
+
+.team-futatsuna.hanabi span {
+  background-color: #1c1c1c;
+  color: #fff;
+}
+
+.team-futatsuna.bbq span {
+  background-color: #92ffc5;
+}
+
 .team-name {
   font-family: splatfont;
   font-size: 50px;
