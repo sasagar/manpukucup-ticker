@@ -18,7 +18,7 @@
           </div>
         </div>
         <div class="team-msg">
-          {{ props.team.msg }}
+          {{ props.team.message }}
         </div>
       </div>
     </div>
