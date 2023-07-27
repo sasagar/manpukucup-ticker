@@ -6,8 +6,6 @@
 
 <script setup>
 import {
-    defineProps,
-    // computed,
     ref
 } from "vue";
 
@@ -46,7 +44,7 @@ const charactor = () => {
             break;
     }
 
-    const url = '/images/12th/' + src;
+    const url = './images/12th/' + src;
     return url;
     // return new URL(`${url}`, import.meta.url).href;
 };
