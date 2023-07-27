@@ -39,6 +39,7 @@ const props = defineProps(['team','show']);
     z-index: 10;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .team-container-enter-from {
