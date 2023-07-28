@@ -3,9 +3,9 @@
         <img src="/images/rogo_inc_color.png" alt="まんぷく杯ロゴ" id="logo">
         <div class="ticker-right">
             <TeamContainer v-bind:team="now" :show="isShow"/>
-            <CharactorContainer :show="isShow" />
         </div>
     </div>
+    <CharactorContainer :show="isShow" />
 </template>
 
 <script setup>

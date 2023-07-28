@@ -10,7 +10,6 @@ export default {
   name: 'App',
   components: {
     TickerContainer,
-    // Test
   }
 }
 </script>
@@ -115,7 +114,8 @@ body {
 #app {
   width: 1920px;
   height: 1080px;
-  /* background-color: #00FF00; */
+  background-image: url(/images/12th/bg.png);
+  background-size: cover;
   font-family: splatfont2;
   font-size: 50px;
   position: relative;
